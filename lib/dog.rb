@@ -1,8 +1,8 @@
 # Your code goes here!
 class Dog
-  def initialize(name,breed="Mutt")
+  def initialize(name)
     @name=name
-    @breed=breed
+  #  @breed=breed
   end
-  fido = Dog.new
-  fido.name = "Fido"
+#  fido = Dog.new
+#  fido.name = "Fido"
